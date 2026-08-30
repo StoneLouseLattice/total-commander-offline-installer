@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Total Commander interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Adobe_Illustrator_screenshot.png/1280px-Adobe_Illustrator_screenshot.png" />
+<img width="2880" height="1620" alt="Total Commander interface" src="https://windows-cdn.softpedia.com/screenshots/48/total-commander_1.jpg" />
 </div>
 
 ---
